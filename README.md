@@ -4,5 +4,6 @@ These are the small projects but very crucial for grasping various react concept
 I am sharing the link of Udemy Course with you guys:-<h1> https://www.udemy.com/course/react-tutorial-and-projects-course/</h1>
 
 These are the list of 25+ Projects.
-https://react-projects.netlify.app/
+<br/>
+<h2>https://react-projects.netlify.app/</h2>
 
